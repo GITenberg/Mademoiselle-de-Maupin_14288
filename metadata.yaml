@@ -1,0 +1,36 @@
+_repo: Mademoiselle-de-Maupin_14288
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gautier, Théophile
+    aliases:
+    - Gautier, Pierre-Jules-Théophile
+    - Gautier, Theophile
+    - Gaultier, Theophile
+    birthdate: 1811
+    deathdate: 1872
+    gutenberg_agent_id: '5450'
+    url: http://www.gutenberg.org/2009/agents/5450
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Théophile_Gautier
+    - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- Banned Books from Anne Haight's list
+gutenberg_issued: '2004-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14288'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 19th century'
+title: Mademoiselle de Maupin
+url: http://www.gutenberg.org/ebooks/14288
