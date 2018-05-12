@@ -18,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Théophile_Gautier
     - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14288#Mademoiselle-de-Maupin
 gutenberg_bookshelf:
 - FR Littérature
 - Banned Books from Anne Haight's list
